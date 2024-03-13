@@ -1,0 +1,16 @@
+html{
+    background-color: lightgoldenrodyellow;
+}
+
+.DeanSize{
+    height: 300px;
+    width: 200px;
+    
+}
+
+li{
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}
+

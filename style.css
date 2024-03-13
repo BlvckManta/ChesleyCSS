@@ -1,0 +1,39 @@
+html{
+    background-color: lightcyan;
+}
+
+*{
+    text-align: center;
+}
+
+.Red-text-index{
+    color: red;
+}
+
+
+.Notes-color{
+    color: darkgoldenrod;
+}
+
+.RedFood{
+    color: darkmagenta;
+}
+.Notes{
+    height: 200px;
+    width: 300px;
+}
+
+.Disney-Color{
+    color: darkolivegreen;
+}
+
+.Header1color{
+    color: blue;
+}
+.contact-color{
+    color: black;
+}
+
+.piplup-color{
+    color: green;
+}
